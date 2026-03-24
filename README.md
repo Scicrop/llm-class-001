@@ -65,9 +65,7 @@ Mensagem:
 
 ---
 
-# O que você pode chamar de “micro mini LLM”
-
-Sim, você pode construir algo didático. Eu não chamaria de LLM em sentido estrito. Eu chamaria de:
+# O que você pode chamar de “micro mini LM”
 
 * **mini modelo de linguagem**
 * **toy language model**
