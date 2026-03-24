@@ -2,17 +2,7 @@
 
 ## A ideia central
 
-Em vez de dizer “vou mostrar um LLM”, eu diria algo como:
-
 **“Eu não vou mostrar aqui um modelo gigante como os do mercado. Vou mostrar a lógica mínima por trás deles, para desmistificar.”**
-
-Isso é forte porque:
-
-* reduz a aura mística,
-* mostra que há matemática e arquitetura,
-* ajuda a audiência a entender que o salto não foi “mágica”, mas uma mudança de desenho computacional.
-
-## O que eu recomendo mostrar
 
 ### Opção 1 — o melhor caminho didático
 
